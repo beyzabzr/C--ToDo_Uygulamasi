@@ -1,0 +1,14 @@
+C:\Users\beyza\Desktop\C#\proje-2\console-todo-uygulamasi\obj\Debug\net8.0\console-todo-uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\Desktop\C#\proje-2\console-todo-uygulamasi\obj\Debug\net8.0\console-todo-uygulamasi.AssemblyInfoInputs.cache
+C:\Users\beyza\Desktop\C#\proje-2\console-todo-uygulamasi\obj\Debug\net8.0\console-todo-uygulamasi.AssemblyInfo.cs
+C:\Users\beyza\Desktop\C#\proje-2\console-todo-uygulamasi\obj\Debug\net8.0\console-todo-uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\beyza\Desktop\C#\proje-2\console-todo-uygulamasi\bin\Debug\net8.0\console-todo-uygulamasi.exe
+C:\Users\beyza\Desktop\C#\proje-2\console-todo-uygulamasi\bin\Debug\net8.0\console-todo-uygulamasi.deps.json
+C:\Users\beyza\Desktop\C#\proje-2\console-todo-uygulamasi\bin\Debug\net8.0\console-todo-uygulamasi.runtimeconfig.json
+C:\Users\beyza\Desktop\C#\proje-2\console-todo-uygulamasi\bin\Debug\net8.0\console-todo-uygulamasi.dll
+C:\Users\beyza\Desktop\C#\proje-2\console-todo-uygulamasi\bin\Debug\net8.0\console-todo-uygulamasi.pdb
+C:\Users\beyza\Desktop\C#\proje-2\console-todo-uygulamasi\obj\Debug\net8.0\console-todo-uygulamasi.dll
+C:\Users\beyza\Desktop\C#\proje-2\console-todo-uygulamasi\obj\Debug\net8.0\refint\console-todo-uygulamasi.dll
+C:\Users\beyza\Desktop\C#\proje-2\console-todo-uygulamasi\obj\Debug\net8.0\console-todo-uygulamasi.pdb
+C:\Users\beyza\Desktop\C#\proje-2\console-todo-uygulamasi\obj\Debug\net8.0\console-todo-uygulamasi.genruntimeconfig.cache
+C:\Users\beyza\Desktop\C#\proje-2\console-todo-uygulamasi\obj\Debug\net8.0\ref\console-todo-uygulamasi.dll
